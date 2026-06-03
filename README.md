@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Anne McGloughlin 👋
 
-<!--
-**arm15aig/arm15aig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Cloud & Data Software Engineer** with 5 years of professional experience specializing in building scalable, data-intensive systems, distributed cloud infrastructure, and modern DevSecOps pipelines. 
 
-Here are some ideas to get you started:
+I excel at bridging the gap between robust data architecture and strict security standards, having spent the last few years architecting multi-region data platforms and implementing structural threat modeling (STRIDE).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Toolkit
+
+* **Languages & Data:** Python, TypeScript, SQL, dbt, Airflow, Perl
+* **Cloud & Infrastructure:** AWS (Redshift, Glue, S3, DynamoDB, Lambda), AWS CDK, Docker
+* **Engineering & DevSecOps:** Threat Modeling (STRIDE, C4), CI/CD (GitHub Actions), Liquibase, System Observability
+* **Methodologies:** Agile/Scrum (Functional Scrum Master), Technical Documentation, Mentoring
+
+---
+
+### 🚀 What I'm Up To
+* 🛠️ **Portfolio Refresh:** Currently building out public cloud architecture and data pipeline patterns to showcase production-grade practices.
+* 🧠 **Latest Upskilling:** Deep diving into AI Orchestration and DevSecOps advanced fundamentals.
+* 💬 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/anne-r-mcgloughlin) | 📧 arm15aig@gmail.com
+
+---
